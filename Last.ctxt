@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Last
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Last\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Last()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Last\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=boxs\ coins_field
+comment2.target=void\ setMs(java.util.ArrayList,\ Score)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ mouse()
+comment5.params=
+comment5.target=boolean\ isSame()
+numComments=6
